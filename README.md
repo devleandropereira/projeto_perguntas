@@ -1,4 +1,4 @@
-# projeto_perguntas
+# Projeto Perguntas
 
 Aplicativo básico desenvolvido com Flutter de perguntas e respostas com finalidade de aprendizagem mobile.
 
